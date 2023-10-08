@@ -24,9 +24,9 @@ This is a GitHub Profile Finder React App build using **HTML5, Tailwind CSS and 
 
 ## 📌 My process
 
-- In **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron** we get familiar with React concepts.
-- Started learning react concepts and for practicing these concepts this project help me.
-- I follow along React-Front-To-Back-2022 react course and learn a lot.
+
+- Started learning react concepts and for practicing the concepts this project helped me.
+- I followed along React-Front-To-Back-2022 react course and learnt a lot.
 - It took me about **15 hours** to complete this project.
 
 ## 📌 What I Learn
@@ -41,11 +41,9 @@ This is a GitHub Profile Finder React App build using **HTML5, Tailwind CSS and 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
-- **Portfolio** - [Prakash Naikwadi](https://prakash-naikwadi.netlify.app/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)
-
-## 📌 Acknowledgments
+- **LinkedIn** - [Bhaskar Purohit](https://www.linkedin.com/in/bhaskar-purohit-64895217b/)
+- **Portfolio** - [Bhaskar Purohit]()
+- **Twitter** - [@PrakashNaikwad6](https://twitter.com/BhaskarP57559)
 
 - Course Instructor - [Brad Traversy](https://www.traversymedia.com/)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
